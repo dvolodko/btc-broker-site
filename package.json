@@ -1,0 +1,21 @@
+{
+  "name": "btc-broker-site",
+  "version": "1.0.0",
+  "description": "This project was created with Parcel. For familiarization and setting additional features [refer to documentation](https://parceljs.org/).",
+  "homepage": "https://dvolodko.github.io/btc-broker-site",
+  "scripts": {
+    "start": "parcel src/*.html",
+    "build": "parcel build src/*.html --public-url /btc-broker-site/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://dvolodko.github.io/btc-broker-site"
+  },
+  "dependencies": {
+    "modern-normalize": "^2.0.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.9.3"
+  },
+  "browserslist": "> 0.5%, last 2 versions, not dead"
+}
