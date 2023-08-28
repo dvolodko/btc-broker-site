@@ -18,6 +18,7 @@
 		"@parcel/packager-raw-url": "^2.9.3",
 		"@parcel/transformer-sass": "^2.9.3",
 		"@parcel/transformer-webmanifest": "^2.9.3",
+		"gh-pages": "^6.0.0",
 		"parcel": "^2.9.3",
 		"parcel-reporter-clean-dist": "^1.0.4",
 		"posthtml-include": "^1.7.4"
