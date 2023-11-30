@@ -12,6 +12,7 @@
 		"url": "git+https://dvolodko.github.io/btc-broker-site"
 	},
 	"dependencies": {
+		"@jamesives/github-pages-deploy-action": "^4.4.3",
 		"modern-normalize": "^2.0.0"
 	},
 	"devDependencies": {

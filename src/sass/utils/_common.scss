@@ -1,1 +1,7 @@
-@import '/node_modules/modern-normalize/modern-normalize.css';
+@import "/node_modules/modern-normalize/modern-normalize.css";
+
+body {
+	color: $neutralColor600;
+	font-family: $mainFontFamily;
+	@include font(400, 1rem, 1.5rem, 0);
+}
